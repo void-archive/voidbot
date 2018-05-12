@@ -32,6 +32,6 @@
 <b><i>voidbot</i></b> is a bot designed to completely eliminate the need for other bots as it's made to replace most bots on Discord - keeping bot count low.<br><br>
 Source was open-sourced but is now closed-sourced - the only purpose(s) of this repository is to showcase widgets (DBL and ForTheBadge) and provide documentation of commands.<br><br>
 Useful links regarding <i>voidbot's</i> home server, invite and wiki homepage can be found below<br>
-[Wiki Homepage](https://github.com/ry0id/voidbot/wiki)
-[Bot Invite](https://discordapp.com/oauth2/authorize/?permissions=8&scope=bot&client_id=395548989149413386)<br>
+[Wiki Homepage](https://github.com/ry0id/voidbot/wiki)<br>
+[Bot Invite](https://discordapp.com/oauth2/authorize/?permissions=8&scope=bot&client_id=395548989149413386)
 [Support Server](https://discord.gg/9Qu7aXe)
