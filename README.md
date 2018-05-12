@@ -1,3 +1,6 @@
+<center><h1>voidbot</h1></center>
+
+<center>
 <a href="https://discordbots.org/bot/395548989149413386">
   <img src="https://discordbots.org/api/widget/status/395548989149413386.svg" alt="VB-Status"/>
 </a>
@@ -14,8 +17,10 @@
   <img src="https://discordbots.org/api/widget/owner/395548989149413386.svg" alt="VB-Owner"/>
 </a>
 
-# voidbot
-A multi-purpose discord bot with a lot to offer.
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+</center>
+
+**A multi-purpose discord bot with a lot to offer.**
 
 ## Documentation of Commands
 [Here](https://github.com/ry0id/voidbot/wiki)
