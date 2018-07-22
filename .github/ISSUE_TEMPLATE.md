@@ -6,6 +6,7 @@
 - Command this issue occurred on:
 - Priority/attention that this issue/bug should have/get over others:
 
-**Steps to reproduce (if any)**:  
+**Steps to reproduce (if any)**:
+
 Please describe how you got to this error so that developers/contributors can reproduce
 
