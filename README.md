@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <a href="https://discordbots.org/bot/395548989149413386">
     <img src="https://discordbots.org/api/widget/status/395548989149413386.svg" alt="VB-Status"/>
   </a>
@@ -14,7 +14,7 @@
   <a href="https://discordbots.org/bot/395548989149413386">
     <img src="https://discordbots.org/api/widget/owner/395548989149413386.svg" alt="VB-Owner"/>
   </a>
-</div>
+</div> -->
 
 <div align="center">
   <h1>
